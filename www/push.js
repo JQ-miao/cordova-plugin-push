@@ -53,7 +53,4 @@ cordova.define("cordova-plugin-push.PushNotification", function(require, exports
       }              
                  
   };
-
-
-
 });
